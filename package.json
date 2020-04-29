@@ -1,0 +1,22 @@
+{
+    "name": "classroomonline",
+    "description": "Online tutoring app built to help our student",
+    "author": {
+        "name": "Folorunso Tolulope",
+        "email": "tolufolorunso@yahoo.com",
+        "url": "git.com"
+    },
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "nodemon ./bin/www"
+    },
+    "dependencies": {
+        "cookie-parser": "~1.4.4",
+        "debug": "~2.6.9",
+        "ejs": "~2.6.1",
+        "express": "~4.16.1",
+        "http-errors": "~1.6.3",
+        "morgan": "~1.9.1"
+    }
+}
